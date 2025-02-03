@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/cookie_1000/" element={<Home />} />
         <Route path="*" element={<Error />} />
       </Routes>
     </Router>
