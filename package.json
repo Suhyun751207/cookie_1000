@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "homepage": "https://suhyun751207.github.io/cookie_1000",
   "private": true,
   "dependencies": {
     "@shadcn/ui": "^0.0.4",
